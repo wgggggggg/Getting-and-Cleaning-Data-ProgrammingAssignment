@@ -165,6 +165,7 @@ for(i in 1:30)
             newdata <- newdata[!c,]
       }
 }
+newdata
 
 
 
